@@ -60,7 +60,8 @@ return 0;
 }
 ```
 ## OUTPUT:
-<img width="959" alt="Ex 6" src="https://github.com/user-attachments/assets/101a3de4-740a-4ec2-86e7-826badedf361">
+![image](https://github.com/user-attachments/assets/0f91f9d1-d8fa-426b-b3dd-a94bcd33f77c)
+
 
 ## RESULT:
 
